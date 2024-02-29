@@ -998,7 +998,7 @@ void OnPaint(HWND hwnd)
 
 HPEN oldPen = (HPEN)SelectObject(dc, pen);
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.019.png)
+![image](images/EllipseTwo.png)
 
 #### ***Работа с объектами GDI с использованием MFC***
 
@@ -1050,7 +1050,7 @@ void CChildView::OnPaint()
 Класс CPaintDC автоматически получает контекст устройства заданного окна приложения, вызывая BeginPaint в конструкторе, и EndPaint в деструкторе. Так
 что, в конечном итоге, данный код мало чем конструктивно отличается от кода предыдущего приложения.
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.020.png)
+![image](images/EllipseThree.png)
 
 #### ***Работа с объектами GDI с использованием WTL.***
 
@@ -1110,7 +1110,7 @@ LRESULT CApplicationView::OnPaint(UINT /*uMsg*/, WPARAM /*wParam*/, LPARAM /*lPa
 
 В целом, решение с использованием библиотеки WTL является практически идентичным решению на базе MFC.
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.021.png)
+![image](images/EllipseFour.png)
 
 ### <a name="_toc95259796"></a>**Использование таймера для создания анимированных изображений**
 
