@@ -939,7 +939,7 @@ void OnPaint(HWND hwnd)
 
 DWORD gdiObjectsCount = GetGuiResources(GetCurrentProcess(), GR_GDIOBJECTS);
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.017.png) ![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.018.png)
+![image](images/TaskManager.png)
 
 #### ***Работа с объектами GDI с использованием WinAPI***
 
