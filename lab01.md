@@ -685,6 +685,8 @@ int WINAPI WinMain(
 
 ### <a name="_toc95259790"></a>**Создание главного окна приложения при помощи MFC**
 
+![image](images/MFCApp.png)
+
 ![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.011.png)
 
 ![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.012.png)
