@@ -355,7 +355,7 @@ int WINAPI WinMain(
 }
 ```
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.009.png)
+![image](images/YesNoExample.png)
 
 #### ***Пару слов о Unicode[^6]***
 
