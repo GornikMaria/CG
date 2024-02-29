@@ -262,9 +262,10 @@ while ((res = GetMessage(&msg, NULL, 0, 0)) != 0)
 
 Рассмотрим процесс создания оконного приложения с помощью Microsoft Visual C++.
 Нужно создать консольное приложение.
+
 ![image](images/EmptyProject.png)
 
-В свойствах проекта (вкладка Properties) перейдем в Linker/System  и вкладке SUBSYSTEM выерем Windows (/SUBSYSTEM:WINDOWS).
+В свойствах проекта (вкладка Properties) перейдем в Linker/System  и вкладке SUBSYSTEM выберем Windows (/SUBSYSTEM:WINDOWS).
 ![image](images/SUBSYSTEM.png)
 
 #### ***Функция WinMain - точка входа в приложение***
