@@ -689,7 +689,7 @@ int WINAPI WinMain(
 
 ![image](images/ApplicationType.png)
 
-![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.012.png)
+![image](images/DocumentTemplateProperties.png)
 
 ![image](images/Aspose.Words.251d2fe0-3e7b-47e1-99a9-ba7e48651b5b.013.png)
 
